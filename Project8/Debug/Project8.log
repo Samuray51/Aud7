@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+  Source.cpp
+C:\Users\User\source1\repos\Project8\Project8\Source.cpp(6,5): warning C4007: WinMain: должен быть "__stdcall"
+C:\Users\User\source1\repos\Project8\Project8\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project8.vcxproj -> C:\Users\User\source1\repos\Project8\Debug\Project8.exe
